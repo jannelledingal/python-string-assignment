@@ -6,6 +6,7 @@ IT5 Elective Assignment 1
 This is a menu-driven Python program that allows the user to input a sentence and perform different string operations on it.
 
 Operations:
+
 0. Enter a new sentence > lets the user replace the current sentence.
 1. Reverse the sentence > flips the sentence backwards.
 2. Count vowels > counts how many vowels are in the sentence.
