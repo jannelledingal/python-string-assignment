@@ -5,16 +5,16 @@ IT5 Elective Assignment 1
 This is a menu-driven Python program that allows the user to input a sentence and perform different string operations on it.
 
 Operations:
-- 0. Enter a new sentence > lets the user replace the current sentence.
-- 1. Reverse the sentence > flips the sentence backwards.
-- 2. Count vowels > counts how many vowels are in the sentence.
-- 3. Check if palindrome > checks if the sentence reads the same forward and backward.
-- 4. Find and replace > finds a word in the sentence and replaces it with another.
-- 5. Title case > converts the sentence into title case (first letter capitalized).
-- 6. Split into words > breaks the sentence into a list of words.
-- 7. Word frequency counter > counts how many times each word appears.
-- 8. Swap case > changes uppercase letters to lowercase and vice versa.
-- 9. Exit > quits the program.
+0. Enter a new sentence > lets the user replace the current sentence.
+1. Reverse the sentence > flips the sentence backwards.
+2. Count vowels > counts how many vowels are in the sentence.
+3. Check if palindrome > checks if the sentence reads the same forward and backward.
+4. Find and replace > finds a word in the sentence and replaces it with another.
+5. Title case > converts the sentence into title case (first letter capitalized).
+6. Split into words > breaks the sentence into a list of words.
+7. Word frequency counter > counts how many times each word appears.
+8. Swap case > changes uppercase letters to lowercase and vice versa.
+9. Exit > quits the program.
 
 
 📷 Sample Runs
