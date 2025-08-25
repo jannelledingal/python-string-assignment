@@ -2,6 +2,7 @@
 IT5 Elective Assignment 1
 
 📌 Description
+
 This is a menu-driven Python program that allows the user to input a sentence and perform different string operations on it.
 
 Operations:
