@@ -20,39 +20,39 @@ Operations:
 📷 Sample Runs
 
 Initial Input
-  ![Input Screenshot](<img width="941" height="330" alt="Input_String_python" src="https://github.com/user-attachments/assets/ef3ba593-c4ae-452f-9068-6221bcc7ddf0" />)
+  ![Input](<img width="941" height="330" alt="Input_String_python" src="https://github.com/user-attachments/assets/ef3ba593-c4ae-452f-9068-6221bcc7ddf0" />)
 
 Choose any operation:
 If 0: 
-   ![New Sentence Screenshot](<img width="585" height="160" alt="image" src="https://github.com/user-attachments/assets/c265a831-a714-410f-a113-93e5b056ca2c" />)
+   ![New Sentence](<img width="585" height="160" alt="image" src="https://github.com/user-attachments/assets/c265a831-a714-410f-a113-93e5b056ca2c" />)
 
 If 1:
-   ![Reverse Screenshot](<img width="520" height="125" alt="image" src="https://github.com/user-attachments/assets/66b58260-a06e-4a2a-987b-93af9d86f3fc" />)
+   ![Reverse](<img width="520" height="125" alt="image" src="https://github.com/user-attachments/assets/66b58260-a06e-4a2a-987b-93af9d86f3fc" />)
 
 If 2:
-   ![Count Vowels Screenshot](<img width="522" height="112" alt="image" src="https://github.com/user-attachments/assets/0d8889fe-ce1b-4107-90eb-b4a30d772544" />)
+   ![Count Vowels](<img width="522" height="112" alt="image" src="https://github.com/user-attachments/assets/0d8889fe-ce1b-4107-90eb-b4a30d772544" />)
 
 If 3:
-   ![Palindrome Screenshot](<img width="515" height="109" alt="image" src="https://github.com/user-attachments/assets/6eed99da-4032-47b1-b3b1-a74f06f1de3d" />)
+   ![Palindrome](<img width="515" height="109" alt="image" src="https://github.com/user-attachments/assets/6eed99da-4032-47b1-b3b1-a74f06f1de3d" />)
 
 If 4:
-   ![Find Replace Screenshot](<img width="576" height="260" alt="image" src="https://github.com/user-attachments/assets/f1c2d3cf-bdd5-404e-b7e8-cf479354d8ad" />)
+   ![Find Replace](<img width="576" height="260" alt="image" src="https://github.com/user-attachments/assets/f1c2d3cf-bdd5-404e-b7e8-cf479354d8ad" />)
    
 If 5:
-   ![Title Case Screenshot](<img width="527" height="127" alt="image" src="https://github.com/user-attachments/assets/399e6ed9-5a98-4342-b7df-73ac9a290087" />)
+   ![Title Case](<img width="527" height="127" alt="image" src="https://github.com/user-attachments/assets/399e6ed9-5a98-4342-b7df-73ac9a290087" />)
 
 If 6:
-   ![Split Screenshot](<img width="478" height="110" alt="image" src="https://github.com/user-attachments/assets/531e5b8e-e1d0-46b5-82dd-f8c32416c8aa" />)
+   ![Split](<img width="478" height="110" alt="image" src="https://github.com/user-attachments/assets/531e5b8e-e1d0-46b5-82dd-f8c32416c8aa" />)
    
 If 7:
-   ![Word Frequency Screenshot](<img width="506" height="106" alt="image" src="https://github.com/user-attachments/assets/5f1dc9dd-edf8-4b7e-a26a-77fd9479a8ad" />)
+   ![Word Frequency](<img width="506" height="106" alt="image" src="https://github.com/user-attachments/assets/5f1dc9dd-edf8-4b7e-a26a-77fd9479a8ad" />)
 
 If 8:
-   ![Swap Case Screenshot](<img width="494" height="122" alt="image" src="https://github.com/user-attachments/assets/0364281e-5b50-41a1-a50c-982992555521" />
+   ![Swap Case](<img width="494" height="122" alt="image" src="https://github.com/user-attachments/assets/0364281e-5b50-41a1-a50c-982992555521" />
 )
 
 If 9:
-   ![Exit Screenshot](<img width="495" height="51" alt="image" src="https://github.com/user-attachments/assets/aabd9ef5-21f1-4d58-877c-bddf1edf1dd2" />)
+   ![Exit](<img width="495" height="51" alt="image" src="https://github.com/user-attachments/assets/aabd9ef5-21f1-4d58-877c-bddf1edf1dd2" />)
 
 
 ✍️ Author: JANNELLE DINGAL
