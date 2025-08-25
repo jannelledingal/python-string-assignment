@@ -19,7 +19,7 @@ Operations:
 9. Exit > quits the program.
 
 
-#📷 Sample Runs
+##📷 Sample Runs
 
 ### Initial Input
 [![Input](https://github.com/user-attachments/assets/ef3ba593-c4ae-452f-9068-6221bcc7ddf0)](https://github.com/user-attachments/assets/ef3ba593-c4ae-452f-9068-6221bcc7ddf0)
