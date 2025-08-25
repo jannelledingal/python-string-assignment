@@ -23,6 +23,7 @@ Initial Input
   ![Input](<img width="941" height="330" alt="Input_String_python" src="https://github.com/user-attachments/assets/ef3ba593-c4ae-452f-9068-6221bcc7ddf0" />)
 
 Choose any operation:
+
 If 0: 
    ![New Sentence](<img width="585" height="160" alt="image" src="https://github.com/user-attachments/assets/c265a831-a714-410f-a113-93e5b056ca2c" />)
 
